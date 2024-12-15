@@ -1,8 +1,9 @@
 
 ## Hi there 👋
 - 🔭 I’m currently studying Digital Game Design
-- 🌱![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
- I’m currently learning Pyhton & C#  
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ & ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  
 
 **Contact info**
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2400005227@stu.iku.edu.tr)
