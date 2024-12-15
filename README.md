@@ -1,7 +1,8 @@
 
 ## Hi there 👋
 - 🔭 I’m currently studying Digital Game Design
-- 🌱 I’m currently learning Pyhton & C#  
+- 🌱![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ I’m currently learning Pyhton & C#  
 
 **Contact info**
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2400005227@stu.iku.edu.tr)
