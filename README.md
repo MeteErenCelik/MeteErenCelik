@@ -1,3 +1,20 @@
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%;">
+    <p>👋 Hi there! I'm a passionate developer with a love for Digital Game Design and AI.</p>
+    <p>🛠️ Projects:</p>
+    <ul>
+      <li><a href="https://github.com/yourusername/awesome-game">Awesome Game</a></li>
+      <li><a href="https://github.com/yourusername/ai-research">AI Research</a></li>
+    </ul>
+  </div>
+  <div style="flex: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
+</div>
+
+
+
+
 ## Hi there 👋
 - 🔭 I’m currently studying Digital Game Design
 - 🌱 I’m currently learning Pyhton & C#
