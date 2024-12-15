@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently studying Digital Game Design
 - 🌱 I’m currently learning Pyhton & C#
-- Contact
+//Contact info
 - Mail : 2400005227@stu.iku.edu.tr
 - Instagram : https://www.instagram.com/meterencelik
 - Linkedin : www.linkedin.com/in/meteerencelik
