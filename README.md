@@ -14,6 +14,8 @@
 
 
 ![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python Logo">
+
 
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
