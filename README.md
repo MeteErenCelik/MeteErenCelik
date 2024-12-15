@@ -1,11 +1,11 @@
 
 ## Hi there 👋
-- 🔭 I’m currently studying Digital Game Design
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 🕹️ I’m currently studying Digital Game Design
+- 🎓 I’m currently learning ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
  & ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   
 
-**Contact info**
+📞**Contact info**
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2400005227@stu.iku.edu.tr)
 - Mail : 2400005227@stu.iku.edu.tr
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/meterencelik)
