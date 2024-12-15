@@ -9,7 +9,6 @@
 - [![X (Black Background)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/meteerencelik/)
 
 
-- X : https://x.com/meteerencelik
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
