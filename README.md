@@ -8,6 +8,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meteerencelik/)
 - [![X (Black Background)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/meteerencelik/)
 
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
