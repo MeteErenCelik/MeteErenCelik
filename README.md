@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Pyhton & C#
 // Contact info
 - Mail : 2400005227@stu.iku.edu.tr
-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/meterencelik) 
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/meterencelik)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meteerencelik/)
 - X : https://x.com/meteerencelik
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
