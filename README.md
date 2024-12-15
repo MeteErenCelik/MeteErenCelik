@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently studying Digital Game Design
+- 🌱 I’m currently learning Pyhton & C#
+- Contact: 2400005227@stu.iku.edu.tr
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
