@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-- *🎓 I’m currently studying Digital Game Design*
-- *🧠 I’m currently learning <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python Logo">
- & ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)*
+- 🎓 I’m currently studying Digital Game Design
+- 🧠 I’m currently learning <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python Logo">
+ & ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   
 
 📞**Contact info**
