@@ -5,7 +5,7 @@
 - Mail : 2400005227@stu.iku.edu.tr
 - Instagram : https://www.instagram.com/meterencelik
 - Linkedin : www.linkedin.com/in/meteerencelik
- X :https://x.com/meteerencelik
+-X : https://x.com/meteerencelik
 <!--
 **MeteErenCelik/MeteErenCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
