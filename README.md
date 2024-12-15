@@ -6,6 +6,8 @@
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/meterencelik)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meteerencelik/)
 - [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.twitter.com/meteeerencelik/)
+- [![X (Black)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=black)](https://www.twitter.com/yourusername/)
+
 
 - X : https://x.com/meteerencelik
 <!--
