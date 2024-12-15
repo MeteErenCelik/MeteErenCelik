@@ -7,6 +7,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meteerencelik/)
 - [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.twitter.com/meteeerencelik/)
 - [![X (Black)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=black)](https://www.twitter.com/yourusername/)
+- [![X (Black Background)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/yourusername/)
 
 
 - X : https://x.com/meteerencelik
